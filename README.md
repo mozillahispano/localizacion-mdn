@@ -1,4 +1,4 @@
-# Blog de Labs
+# Localización de artículos para MDN
 Seguimiento de las tareas del equipo de [Localización del MDN](https://www.mozilla-hispano.org/documentacion/Localizaci%C3%B3n_de_MDN)
 
 [![Artículos pendientes](https://badge.waffle.io/mozillahispano/localizacion-mdn.svg?label=pendiente&title=Pendientes)](http://waffle.io/mozillahispano/localizacion-mdn) 
